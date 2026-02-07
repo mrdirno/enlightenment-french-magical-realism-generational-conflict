@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_french_magical_realism_generational_conflict",
+  "title": "The House of Accumulated Whispers",
+  "tagline": "A house remembers what a family tries to forget.",
+  "target_words": 70000,
+  "actual_words": 77163,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Memory of Objects",
+    "Inherited Silence vs. Communal Voice",
+    "The Architecture of Grief",
+    "Negotiating with the Past"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Canary's Memory",
+      "words": 3215
+    },
+    {
+      "ch": 2,
+      "title": "The Stove's Counsel",
+      "words": 3215
+    },
+    {
+      "ch": 3,
+      "title": "The Surgeon of Surfaces",
+      "words": 3215
+    },
+    {
+      "ch": 4,
+      "title": "The Sulking Mantelpiece",
+      "words": 3215
+    },
+    {
+      "ch": 5,
+      "title": "The Feral Garden's Chorus",
+      "words": 3215
+    },
+    {
+      "ch": 6,
+      "title": "The Silence Between the Ticks",
+      "words": 3215
+    },
+    {
+      "ch": 7,
+      "title": "The Weight of a Name",
+      "words": 3215
+    },
+    {
+      "ch": 8,
+      "title": "The Clockmaker's Last Argument",
+      "words": 3215
+    },
+    {
+      "ch": 9,
+      "title": "The Ledger of Grudges",
+      "words": 3215
+    },
+    {
+      "ch": 10,
+      "title": "The River in the Ceiling",
+      "words": 3215
+    },
+    {
+      "ch": 11,
+      "title": "The Parisian Metronome",
+      "words": 3215
+    },
+    {
+      "ch": 12,
+      "title": "The Ambition of the West Wall",
+      "words": 3215
+    },
+    {
+      "ch": 13,
+      "title": "The Interlocutor",
+      "words": 3215
+    },
+    {
+      "ch": 14,
+      "title": "The War Song in the Floorboard",
+      "words": 3215
+    },
+    {
+      "ch": 15,
+      "title": "The Light of 1937",
+      "words": 3215
+    },
+    {
+      "ch": 16,
+      "title": "The Coup d'État of the Mint",
+      "words": 3215
+    },
+    {
+      "ch": 17,
+      "title": "The Bargain with the Beam",
+      "words": 3215
+    },
+    {
+      "ch": 18,
+      "title": "The Taste of Sugared Lemon",
+      "words": 3215
+    },
+    {
+      "ch": 19,
+      "title": "The Petulance of Wood",
+      "words": 3215
+    },
+    {
+      "ch": 20,
+      "title": "The Clutter of Truth",
+      "words": 3215
+    },
+    {
+      "ch": 21,
+      "title": "The Draught from the East",
+      "words": 3215
+    },
+    {
+      "ch": 22,
+      "title": "The Tenant and the Negotiator",
+      "words": 3215
+    },
+    {
+      "ch": 23,
+      "title": "The Breath the House Holds",
+      "words": 3215
+    },
+    {
+      "ch": 24,
+      "title": "The First Whisper of the New Order",
+      "words": 3215
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where the house speaks through a new object (a mirror, a hearth, a child's toy) to reveal a family secret it has kept for decades.",
+      "Create a scene where Épiphane's mother finally hears the house speak. What does it say to her, and through what medium?",
+      "Write a 'memory' from the house's perspective, recounting a pivotal, emotionally charged day in the family's history that no human witnessed in full.",
+      "Draft a conversation between the house and the feral garden. What do these two sentient spaces argue about or collaborate on?"
+    ],
+    "technical": [
+      "Build a 'House Whisper' interactive map: a web-based interface where users can click on rooms/objects in a blueprint of the house to read/hear fragments of its memory.",
+      "Create a 'Generational Lexicon' generator: a tool that analyzes text for thematic conflict between 'order' and 'accumulation,' tagging dialogue and description with these opposing forces."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Isabel Allende",
+      "Marcel Proust",
+      "Hayao Miyazaki",
+      "Gaston Bachelard"
+    ]
+  },
+  "cover_prompt": "A single, ornate wooden drawer stands slightly ajar in the dusty wall of a grand, forgotten hallway, its contents not of objects but of softly glowing, swirling whispers made visible, which drift like ethereal smoke into the corridor's still air. The scene is set within the intricate, decaying elegance of a French Enlightenment-era manor house, where peeling wallpaper reveals older patterns beneath and the very architecture—cracked cornices, a faded mural of a pastoral scene, a solitary empty chair—seems to hold its breath, charged with unspoken family history. In the atmospheric style of Remedios Varo, blending precise, symbolic detail with a haunting, magical realism that feels both scientific and deeply mystical. Book cover framing, centered composition with a dramatic low-angle shot looking down the endless hallway, the open drawer a focal point of eerie emission. Chiaroscuro lighting with a single shaft of dusty, late-afternoon sun cutting through the gloom, illuminating the motes of dust and spectral whispers, color palette of aged sepia, muted gold, deep charcoal, and the faint, spectral blue of the escaping memories. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
