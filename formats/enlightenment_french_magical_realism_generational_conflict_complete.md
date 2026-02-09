@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-The first time the house spoke to me, it did so in the voice of my grandmother’s long-dead canary.
+Maman’s porcelain cup held the ghost of her morning chocolate, a brown tide-line staining the gilt rim. Across the salon, my daughter’s fingers danced, coaxing a silent, shimmering sonata from the harpsichord’s dust. Neither woman looked at the other. The air between them thickened, sugared with resentment and the faint, impossible scent of oranges blooming from the instrument’s closed lid.
+
 
 I was nine years old, and the sound was a thread of gold dust spun from the silence of the attic. Not a song, but the *memory* of a song, trapped in the grain of a floorboard near the dormer window where the cage once hung. I’d been sent up to fetch a trunk of old linens, the air thick with the smell of cedar and forgotten rain. My fingers brushed the wood, and it vibrated, a faint, melodic hum that travelled up my arm and settled behind my teeth like the taste of sugared lemon.
 
